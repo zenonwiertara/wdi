@@ -1,0 +1,19 @@
+Zad. 1
+
+Plik niespakowany: 146KB
+Plik spakowany: 572B
+
+Zad. 2
+
+Plik niespakowany: 146KB
+Plik spakowany: 594B
+
+Zad. 3
+
+Plik niespakowany: 1.02MB
+Plik spakowany: 57.1KB (JPG)
+
+Zad. 4
+
+Plik niespakowany: 1.02MB
+Plik spakowany: 57.9 (JPEG)
